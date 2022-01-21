@@ -6,8 +6,10 @@ namespace MovieLib.ConsoleHost
     {
         static void Main(string[] args)
         {
-            xyz;
+            //TODO: A commment
             Console.WriteLine("Hello World!");
+
+            //another block
         }
     }
 }
